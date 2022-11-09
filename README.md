@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="[https://github.com/account](https://avatars.githubusercontent.com/u/85854590?v=4)" widht="300"/>
 
-<!--
-**Seyeon-Jo/seyeon-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there👋, I am Seyeon!
 
-Here are some ideas to get you started:
+- 🌱 I'm a student majoring in Digital Experience Design.
+- 🔭 I’m currently studying Front End Web development.
+- ⭐️ I'm self-motivated and passionate about Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![HTML5](http://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](http://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](http://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)
