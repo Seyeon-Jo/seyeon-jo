@@ -2,7 +2,7 @@
 
 # Hi there👋, I am Seyeon!
 
-<! -- your comment - 🌱 I'm a student majoring in Digital Experience Design.-->
+<!-- - 🌱 I'm a student majoring in Digital Experience Design. -->
 - 🔭 I’m currently studying Front End Web development.
 - ⭐️ I'm self-motivated and passionate about Web Development.
 
