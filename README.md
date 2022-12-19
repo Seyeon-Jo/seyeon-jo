@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently studying Front End Web development. -->
 <!-- - ⭐️ I'm self-motivated and passionate about Web Development. -->
 
----
+<!-- --- -->
 
 <!-- ![HTML5](http://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html5&logoColor=ffffff) -->
 <!-- ![CSS3](http://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3&logoColor=ffffff) -->
